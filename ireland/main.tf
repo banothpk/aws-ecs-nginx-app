@@ -11,7 +11,7 @@ source = "../ecs-module/"
 
 app_name = "my-nginx-app"
 app_environment = "Staging"
-aws_region = "eu-west-1"
+aws_region = "us-east-1"
 app_sources_cidr = ["0.0.0.0/0"]
 admin_sources_cidr = ["0.0.0.0/0"]
 aws_key_pair_name = "ireland-key"
